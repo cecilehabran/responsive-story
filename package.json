@@ -1,0 +1,19 @@
+{
+  "name": "responsive-story",
+  "version": "1.0.0",
+  "description": "Responsive story with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cecilehabran/responsive-story.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cecilehabran/responsive-story/issues"
+  },
+  "homepage": "https://github.com/cecilehabran/responsive-story#readme"
+}
